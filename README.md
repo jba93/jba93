@@ -3,7 +3,7 @@
 <div align="center">
   <br>💻 Trabalhando atualmente com RPA, Pentaho, Power BI e MySQL.
   <br>⏳ Já trabalhei com HTML, CSS, JavaScript e PHP.
-  <br>🐍 Estudando ferramentas e tecnologias relacionadas à Engenharia de Dados, com foco em Python.
+  <br>🐍 Estudando ferramentas e tecnologias relacionadas a área de dados, com foco em Python.
   <br>👩 Ela/Dela
 </div>
 
