@@ -1,9 +1,9 @@
 ## <div align="center"> Seja bem-vinda(o)! 🦄</div>
 
 <div align="center">
-  <br>💻 Trabalhando atualmente com RPA, Pentaho, Power BI e MySQL.
-  <br>⏳ Já trabalhei com HTML, CSS, JavaScript e PHP.
-  <br>🐍 Estudando ferramentas e tecnologias relacionadas a área de dados, com foco em Python.
+  <br>💻 Trabalho atualmente com criação de ETLs com o Pentaho Data Integration e criação de visualização de dados com o Power BI, tudo isso com o banco de dados MySQL e SQL Server.
+  <br>⏳ Já trabalhei com HTML, CSS, JavaScript, PHP e RPA.
+  <br>🐍 Sou bacharel em Ciência da Computação pela UNESP e, no momento, tenho estudado ferramentas e tecnologias relacionadas a dados e BI.
   <br>👩 Ela/Dela
 </div>
 
