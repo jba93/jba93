@@ -3,7 +3,7 @@
 <div align="center">
   <br>💻 Trabalho atualmente como Analista de Dados.
   <br>⏳ Já trabalhei com HTML, CSS, JavaScript, PHP, Pentaho Data Integration, SQL Server, MySQL e RPA.
-  <br>🐍 Sou bacharel em Ciência da Computação pela UNESP e estou estudando MBA em Data Science e Analytics na USP.
+  <br>🐍 Ciência da Computação pela UNESP e MBA em Data Science e Analytics pela USP.
   <br>👩 Ela/Dela
 </div>
 
