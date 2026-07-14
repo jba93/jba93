@@ -1,7 +1,7 @@
 ## <div align="center"> Seja bem-vinda(o)! 🦄</div>
 
 <div align="center">
-  <br>💻 Trabalho atualmente como Analista de Dados.
+  <br>💻 Trabalho atualmente como Analista de Dados usando SAS, Oracle e Power BI no meu dia-a-dia..
   <br>⏳ Já trabalhei com HTML, CSS, JavaScript, PHP, Pentaho Data Integration, SQL Server, MySQL e RPA.
   <br>🐍 Ciência da Computação pela UNESP e MBA em Data Science e Analytics pela USP.
   <br>👩 Ela/Dela
